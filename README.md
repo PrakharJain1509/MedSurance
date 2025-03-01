@@ -46,6 +46,9 @@ Ensure you have the following installed:
    cd Chatbot_backend
    python3 app_with_tts_with_flask.py
    ```
+   ```bash
+   python3 eval2.py
+   ```
    - This will start the Flask server at `http://127.0.0.1:5000`
 
 4. Run the hospital management backend:
