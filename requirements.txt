@@ -3,3 +3,6 @@ requests
 python-dotenv
 edge-tts
 asyncio
+flask_cors
+flask_sqlalchemy
+pyjwt
